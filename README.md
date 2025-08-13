@@ -26,11 +26,7 @@ depression/
 │
 └── README.md
 
-yaml
-Copy
-Edit
 
----
 
 ## ⚙️ Installation
 
